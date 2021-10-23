@@ -30,5 +30,5 @@ Tutorial Membuat Akun GITHUB
 
 ![githup 12](https://user-images.githubusercontent.com/93025147/138549727-5dac46a4-1397-4721-906e-59f1ec507c87.png)
 
-8. Akun GITHUB siap digunakan. 
+8. Akun GITHUB siap digunakan.
 
